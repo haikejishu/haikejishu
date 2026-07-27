@@ -1,7 +1,11 @@
-## Hi there 👋
+## 📊 GitHub Stats
 
-[![haikejishu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haikejishu&count_private=true&show_icons=true&line_height=40)](https://github.com/haikejishu)
-[![haikejishu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haikejishu&show_icons=true)](https://github.com/haikejishu)
+![GitHub Streak](https://streak-stats.demolab.com?user=haikejishu&theme=tokyonight&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=haikejishu&theme=tokyonight&no-frame=true&column=3&margin-w=15)
+
+![Followers](https://img.shields.io/github/followers/haikejishu?style=social)
+![Stars](https://img.shields.io/github/stars/haikejishu?affiliations=OWNER&style=flat-square)
 
 <!--
 **haikejishu/haikejishu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
